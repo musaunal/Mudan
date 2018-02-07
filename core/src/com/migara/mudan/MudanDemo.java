@@ -36,6 +36,8 @@ public class MudanDemo extends ApplicationAdapter {
 		gsm.render(batch);
 	}
 
+	///asdasdasdasdasd
+
 	@Override
 	public void dispose() {
 		super.dispose();
