@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\musa\\Desktop\\Mudan\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\musa\\Desktop\\Mudan\\android\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/home/musa/projeler/Mudan/C:\\Users\\musa\\Desktop\\Mudan\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/home/musa/projeler/Mudan/C:\\Users\\musa\\Desktop\\Mudan\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/musa/projeler/Mudan/android/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/musa/projeler/Mudan/android/res/drawable-mdpi/ic_launcher.png"
     }
 ]
